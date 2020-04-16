@@ -27,7 +27,7 @@ int main()
 
 # 4. C#
 ```
-using System
+using System;
 
 namespace HelloWorld
 {
