@@ -13,3 +13,14 @@ int main(void)
     return 0;
 }
 ```
+
+# 3. C++
+```
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
+```
