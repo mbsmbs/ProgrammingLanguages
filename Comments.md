@@ -59,3 +59,13 @@ multi-line comments
 
 // this is a single line comment
 ```
+
+# 7. Rust
+```
+/*
+This is a
+multi-line comments
+*/
+
+// this is a single line comment
+```
