@@ -51,3 +51,10 @@ public class HelloWorld
     }
 }
 ```
+
+# 6. JavaScript
+```
+<script>
+console.log("Hello World!);
+</script>
+```
