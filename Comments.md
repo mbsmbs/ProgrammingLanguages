@@ -3,7 +3,7 @@
 """
 This is a
 multi-line
-comment.
+comments
 """
 
 # This is a single-line comment.
@@ -31,6 +31,16 @@ comments
 ```
 
 # 4. C#
+```
+/*
+This is a
+multi-line comments
+*/
+
+// this is a single line comment
+```
+
+# 5. Java
 ```
 /*
 This is a
