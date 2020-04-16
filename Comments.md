@@ -2,11 +2,11 @@
 ```
 """
 This is a
-multiple line
+multi-line
 comment.
 """
 
-# This is a single line comment.
+# This is a single-line comment.
 ```
 
 # 2. C
@@ -17,7 +17,7 @@ comments
 C89
 */
 
-// since C99
+// single-line comment since C99
 ```
 
 # 3. C++
