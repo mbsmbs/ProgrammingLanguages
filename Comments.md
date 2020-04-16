@@ -49,3 +49,13 @@ multi-line comments
 
 // this is a single line comment
 ```
+
+# 6. JavaScript
+```
+/*
+This is a
+multi-line comments
+*/
+
+// this is a single line comment
+```
