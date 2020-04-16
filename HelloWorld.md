@@ -24,3 +24,19 @@ int main()
     return 0;
 }
 ```
+
+# 4. C#
+```
+using System
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(String[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
