@@ -27,5 +27,15 @@ C-style or multi-line
 comments
 */
 
-// C++ or single-line comment
+// C++-style or single-line comment
+```
+
+# 4. C#
+```
+/*
+This is a
+multi-line comments
+*/
+
+// this is a single line comment
 ```
