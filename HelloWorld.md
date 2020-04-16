@@ -58,3 +58,11 @@ public class HelloWorld
 console.log("Hello World!);
 </script>
 ```
+
+# 7. Rust
+```
+fn main()
+{
+    println!("Hello World");
+}
+```
