@@ -25,17 +25,15 @@ x = memoryview(bytes(5))                          // Binary Type : memoryview
 # 2. C
 - [Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
 ```
-char x = 'c'                                      // Primitive Type : 1 byte
-short x = 123;                                    // Primitive Type : 2 bytes
-int x  = 32;                                      // Primitive Type : 4 bytes
-long x = 456123;                                  // primitive Type : 4 bytes
-float x = 5.54345;                                // Primitive Type : 4 bytes
-double x = 5.812352352;                           // Primitive Type : 8 bytes
-long double x = 5.81232345;                       // Primitive Type : 8 bytes
+char myChar = 'c'                                      // Primitive Type : 1 byte
+short myShort = 123;                                    // Primitive Type : 2 bytes
+int myInt  = 32;                                      // Primitive Type : 4 bytes
+long myLong = 456123;                                  // primitive Type : 4 bytes
+float myFloat = 5.54345;                                // Primitive Type : 4 bytes
+double myDouble = 5.812352352;                           // Primitive Type : 8 bytes
+long double myLongDouble = 5.81232345;                       // Primitive Type : 8 bytes
 
 unsigned 'data_type'      : just '+'
-
-enum day{DAY_MONDAY, DAT_TUESDAY,...}             // Enum Type
 
 void : 타입 없음. 리턴값이 없는 함수에 쓰이거나 함수가 매개변수를 사용하지 않음을 나타냄
 ```
@@ -50,7 +48,7 @@ double myDoubleNum = 9.98562;                     // Primitive Type : 8 bytes
 bool myBool = true;                               // Primitive Type : 1 byte
 
 string myString = "This is my String"             // String Type
-auto address = "This is my Address"               // let compiler deduce the type
+auto myAddress = "This is my Address"             // let compiler deduce the type
 
 unsigned 'data type'      : just '+'
 
@@ -59,5 +57,17 @@ void : 타입 없음. 리턴값이 없는 함수에 쓰이거나 함수가 매�
 
 # 4. C#
 ```
+byte myByte = 64;                                   // Integral Number : 1 byte
+short myShort = 156;                                // Integral Number : 2 bytes
+int myInt = 4566;                                   // Integral Number : 4 bytes
+long myLong = 456897;                               // Integral Number : 8 bytes
 
+float myFloat = 45.312;                             // Real Number : 4 bytes
+double myDouble = 45.123456;                        // Real Number : 8 bytes
+decimal myDecimal = 45.123456123;                   // Real Number : 16 bytes
+
+bool myBool = True;                                 // Boolean Type : 1 byte
+
+char myChar = 'm';                                  // Unicode Character : 2 bytes
+string myStr = "This is my string!";                // String Type
 ```
