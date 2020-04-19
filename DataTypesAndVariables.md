@@ -25,7 +25,7 @@ x = memoryview(bytes(5))                          // Binary Type : memoryview
 # 2. C
 - [Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
 ```
-char x = "c"                                      // Primitive Type : 1 byte
+char x = 'c'                                      // Primitive Type : 1 byte
 short x = 123;                                    // Primitive Type : 2 bytes
 int x  = 32;                                      // Primitive Type : 4 bytes
 long x = 456123;                                  // primitive Type : 4 bytes
