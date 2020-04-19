@@ -84,4 +84,6 @@ float myFloat = 12.32;                              // Primitive Type : 4 bytes
 double myDouble = 12.235645;                        // Primitive Type : 8 bytes
 char myChar = 'b';                                  // Primitive Type : 1 byte
 boolean = true;                                     // Primitive Type : 1 byte
+
+String myStr = "This is my string";                 // String Class
 ```
