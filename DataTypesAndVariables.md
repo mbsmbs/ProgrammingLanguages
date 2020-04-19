@@ -23,7 +23,7 @@ x = memoryview(bytes(5))                          // Binary Type : memoryview
 ```
 
 # 2. C
-- [C Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
+- [Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
 ```
 char x = "c"                                      // Primitive Type : 1 byte
 short x = 123;                                    // Primitive Type : 2 bytes
@@ -37,5 +37,4 @@ unsigned 'data_type'      : just '+'
 signed 'data_type'        : '+' & '-'
 
 enum day{DAY_MONDAY, DAT_TUESDAY,...}             // Enum Type
-
 ```
