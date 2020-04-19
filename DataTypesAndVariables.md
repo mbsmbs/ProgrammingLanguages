@@ -23,13 +23,14 @@ x = memoryview(bytes(5))                          // Binary Type : memoryview
 ```
 
 # 2. C
+- [C Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
 ```
-void                                              // Primary Data Type : void
-int x  = 5;                                       // Primary Data Type
-float x = 5.5;                                    // Primary Data Type   7 digits
-double x = 5.8123;                                // Primary Data Type : 15 digits
-char x = "c"                                      // Primary Data Type
-int*, float*, char*                               // Primary Data Type : pointer
+int x  = 32;                                      // Primitive Types
+long x = 456123;                                  // primitive Types
+float x = 5.5;                                    // Primitive Types
+double x = 5.8123;                                // Primitive Types
+long double x = 
+char x = "c"                                      // Primitive Types
 
 
 
