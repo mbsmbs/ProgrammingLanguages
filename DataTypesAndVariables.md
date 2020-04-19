@@ -41,6 +41,7 @@ void : 타입 없음. 리턴값이 없는 함수에 쓰이거나 함수가 매�
 ```
 
 # 3. C++
+- [C++ Data Types](https://docs.microsoft.com/en-us/cpp/cpp/cpp-type-system-modern-cpp?view=vs-2019)
 ```
 char myChar = 'A';                                // Primitive Type : 1 byte
 int myNum = 5;                                    // Primitive Type : 4 bytes
@@ -54,4 +55,9 @@ auto address = "This is my Address"               // let compiler deduce the typ
 unsigned 'data type'      : just '+'
 
 void : 타입 없음. 리턴값이 없는 함수에 쓰이거나 함수가 매개변수를 사용하지 않음을 나타냄
+```
+
+$ 4. C#
+```
+
 ```
