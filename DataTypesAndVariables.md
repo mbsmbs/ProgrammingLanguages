@@ -25,13 +25,17 @@ x = memoryview(bytes(5))                          // Binary Type : memoryview
 # 2. C
 - [C Data Types range](https://docs.microsoft.com/ko-kr/cpp/cpp/data-type-ranges?view=vs-2019)
 ```
-int x  = 32;                                      // Primitive Types
-long x = 456123;                                  // primitive Types
-float x = 5.5;                                    // Primitive Types
-double x = 5.8123;                                // Primitive Types
-long double x = 
-char x = "c"                                      // Primitive Types
+char x = "c"                                      // Primitive Type : 1 byte
+short x = 123;                                    // Primitive Type : 2 bytes
+int x  = 32;                                      // Primitive Type : 4 bytes
+long x = 456123;                                  // primitive Type : 4 bytes
+float x = 5.54345;                                // Primitive Type : 4 bytes
+double x = 5.812352352;                           // Primitive Type : 8 bytes
+long double x = 5.81232345;                       // Primitive Type : 8 bytes
 
+unsigned 'data_type'      : just '+'
+signed 'data_type'        : '+' & '-'
 
+enum day{DAY_MONDAY, DAT_TUESDAY,...}             // Enum Type
 
 ```
