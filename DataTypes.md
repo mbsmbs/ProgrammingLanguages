@@ -102,3 +102,5 @@ var arr = [1, 2, 3];                                // Complex Data : array = ob
 var x = null;                                       // Complex Data : null = object
 var x = myFunc(){}                                  // Complex Data : function
 ```
+
+# 7. Rust
