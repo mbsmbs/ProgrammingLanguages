@@ -72,6 +72,8 @@ bool myBool = True;                                 // Boolean Type : 1 byte
 
 char myChar = 'm';                                  // Unicode Character : 2 bytes
 string myStr = "This is my string!";                // String Type
+
+var i = 0;                                          // Implicitly Typed
 ```
 
 # 5. Java
@@ -90,5 +92,13 @@ String myStr = "This is my string";                 // String Class
 
 # 6. JavaScript ES6
 ```
+var myNumber = 123;                                 // Primitive Type : number
+var myString = "This is my string!";                // Primitive Type : string
+var myBoolean = true;                               // Primitive Type : boolean
+var x;                                              // Primitive Type : undefined
 
+var myInfo = {name: 'myName', age: 34);             // Complex Data : object
+var arr = [1, 2, 3];                                // Complex Data : array = object
+var x = null;                                       // Complex Data : null = object
+var x = myFunc(){}                                  // Complex Data : function
 ```
