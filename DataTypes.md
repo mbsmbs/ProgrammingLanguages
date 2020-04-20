@@ -87,3 +87,8 @@ boolean = true;                                     // Primitive Type : 1 byte
 
 String myStr = "This is my string";                 // String Class
 ```
+
+# 6. JavaScript ES6
+```
+
+```
