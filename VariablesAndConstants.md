@@ -2,7 +2,7 @@
 
   ## 1-A. Variable
   ```
-  variable_name = 5                                             // Numbers
+  variable_name = 5                                             // Number
   variable_name = "This is my variable!"                        // String
   ```
 
@@ -14,6 +14,16 @@
 
 
 # 2. C
-
+  - 선언은 시작 지점에 한다.
+  
   ## 1-A. Variable
-  - 
+  ```
+  data_type variable_name;                                      // declaration
+  
+  variable_name = something;                                     // Assignment
+  ```
+  
+  ## 1-B. Constant
+  ```
+  
+  ```
