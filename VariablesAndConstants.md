@@ -63,3 +63,19 @@
   ```
   const float Pi = 3.14;
   ```
+
+# 5. JAVA
+
+  ## 4-A. Variable
+  ```
+  data_type variable_name;                                      // declaration
+  variable_name = something;                                    // Assignment
+  
+  int myInt;
+  myInt = 1;
+  ```
+  
+  ## 4-B. Constant
+  ```
+  static final float PI = 3.14;
+  ```  
