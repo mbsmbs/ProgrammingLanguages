@@ -92,3 +92,18 @@
   ```
   const PI = 3.14;
   ```
+
+# 7. Rust
+  
+ ## 7-A. Variable
+ ```
+ let mut varible_name = something;
+ ```
+ 
+ ## 7-B. Constant
+   - Immutable by default
+ ```
+ let variable_name = something;
+ 
+ let variable_name : type = something;                          // specify the type
+ ```
