@@ -16,14 +16,50 @@
 # 2. C
   - 선언은 시작 지점에 한다.
   
-  ## 1-A. Variable
+  ## 2-A. Variable
   ```
   data_type variable_name;                                      // declaration
-  
   variable_name = something;                                    // Assignment
+  
+  int myInt;
+  myInt = 1;
   ```
   
-  ## 1-B. Constant
+  ## 2-B. Constant
+  ```
+  const int MY_BIRTHDAY_YEAR = xxxx;
+  const float PI = 3.14;
+  ```
+
+# 3. C++
+
+  ## 3-A. Variable
+  ```
+  data_type variable_name;                                      // declaration
+  variable_name = something;                                    // Assignment
+  
+  int myInt;
+  myInt = 1;
   ```
   
+  ## 3-B. Constant
+  ```
+  const int MY_BIRTHDAY_YEAR = xxxx;
+  const float PI = 3.14;
+  ```
+  
+# 4. C#
+
+  ## 4-A. Variable
+  ```
+  data_type variable_name;                                      // declaration
+  variable_name = something;                                    // Assignment
+  
+  int myInt;
+  myInt = 1;
+  ```
+  
+  ## 4-B. Constant
+  ```
+  const float Pi = 3.14;
   ```
