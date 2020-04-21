@@ -66,7 +66,7 @@
 
 # 5. JAVA
 
-  ## 4-A. Variable
+  ## 5-A. Variable
   ```
   data_type variable_name;                                      // declaration
   variable_name = something;                                    // Assignment
@@ -75,7 +75,20 @@
   myInt = 1;
   ```
   
-  ## 4-B. Constant
+  ## 5-B. Constant
   ```
   static final float PI = 3.14;
   ```  
+
+# 6. JavaScript
+
+  ## 6-A. Variable
+  ```
+  var variable_name = 5;
+  let variable_name = "something";
+  ```
+  
+  ## 6-B. Constant
+  ```
+  const PI = 3.14;
+  ```
