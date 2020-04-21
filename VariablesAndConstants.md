@@ -20,7 +20,7 @@
   ```
   data_type variable_name;                                      // declaration
   
-  variable_name = something;                                     // Assignment
+  variable_name = something;                                    // Assignment
   ```
   
   ## 1-B. Constant
